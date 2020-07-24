@@ -1,6 +1,6 @@
-# doing
+# DOiNG
 
-A new Flutter project.
+A simple task scheduler app - for everyone.
 
 ## Getting Started
 
